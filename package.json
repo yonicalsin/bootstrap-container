@@ -1,0 +1,31 @@
+{
+   "name": "bootstrap-container",
+   "version": "1.0.0",
+   "description": "bootstrap receptive containers provide a means to center and horizontally fill the contents of your site",
+   "main": "index.css",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yonicalsin/bootstrap-container.git"
+   },
+   "keywords": [
+      "container",
+      "bootstrap",
+      "container",
+      "css container",
+      "scss container",
+      "react container"
+   ],
+   "author": "Yoni Calsin <helloyonicb@gmail.com>",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/yonicalsin/bootstrap-container/issues"
+   },
+   "homepage": "https://github.com/yonicalsin/bootstrap-container#readme",
+   "devDependencies": {
+      "bootstrap": "^4.5.0",
+      "node-sass": "^4.14.1"
+   }
+}
