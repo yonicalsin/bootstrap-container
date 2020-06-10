@@ -4,7 +4,8 @@
    "description": "bootstrap receptive containers provide a means to center and horizontally fill the contents of your site",
    "main": "index.css",
    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "build": " node-sass --output-style expanded index.scss index.css",
+      "prebuild": "rimraf index.css && rimraf index.css.map"
    },
    "repository": {
       "type": "git",
